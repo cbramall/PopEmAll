@@ -2,3 +2,6 @@
 	path = src/Assets/MixedRealityToolkit-Unity
 	url = https://github.com/microsoft/MixedRealityToolkit-Unity.git
 	branch = mrtk_release
+[submodule "src/Assets/MixedRealityToolkit-Unity"]
+	path = src/Assets/MixedRealityToolkit-Unity
+	url = https://github.com/microsoft/MixedRealityToolkit-Unity.git
